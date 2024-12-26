@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internalisation</string>
+    <string name="start_tracking">Démarrer le suivi</string>
+    <string name="stop_tracking">Arrêter le suivi</string>
+    <string name="tracking_started">Suivi démarré</string>
+    <string name="tracking_stopped">Suivi arrêté</string>
+    <string name="last_log">Dernier enregistrement : Aucun</string>
+    <string name="permission_granted">Permission accordée</string>
+    <string name="permission_denied">Permission refusée</string>
+    <string name="change_language">Changer la langue</string>
+</resources>
